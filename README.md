@@ -1,4 +1,4 @@
-# Weekly Challenge 3 - Password Generator
+# Password Generator
 
 ## Table of Contents
 
