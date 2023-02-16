@@ -12,7 +12,7 @@
 
 ## Description <a name = "Description"></a>
 
-Challenge was to write the function that would generate a password based on different criteria confirmed by the user using javascript. CSS & HTML pages were provided for this challenge. Inputs from user needed to be validated before generating and returning a random password. 
+This app generates a password based on different criteria confirmed by the user using javascript. CSS & HTML pages were provided for this challenge. Inputs from user needed to be validated before generating and returning a random password. 
 
 ## Links <a name = "Links"></a>
 
